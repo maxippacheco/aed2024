@@ -32,3 +32,4 @@ expr1 = "[ ( ) ] { } { [ ( ) ( ) ] ( ) }"
 expr2 = "[ ( ] )"
 print(is_balanced(expr1))  # Output: True
 print(is_balanced(expr2))  # Output: False
+
